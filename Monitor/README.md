@@ -7,4 +7,4 @@ Output is a hex dump.
 
 future enhancements: hex input, character output for readable characters.
 
-![Monitor](../c64_monitor.png)
+![Monitor](./c64_monitor.png)
