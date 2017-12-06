@@ -7,6 +7,6 @@ You will have to build all your tools yourself.
 
 # The rules:
 All you can use is a c64 and a storage device (disk or tape) or an emulator for those who do not possess a c64.
-You can NOT use any software or cartridges that you didn't made yourself. If you use an emulator you can't use use any emulator tools like the Vice monitor.
+You can NOT use any software or cartridges that you didn't made yourself. If you use an emulator you can't use use any emulator tools (like the Vice monitor).
 
 In this repository I will post my tools. I would be very interested to see the solutions of other c64 enthousiasts.
