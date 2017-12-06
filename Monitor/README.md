@@ -6,3 +6,5 @@ Enter a (decimal)address after the '?'prompt or just press enter to continue.
 Output is a hex dump.
 
 future enhancements: hex input, character output for readable characters.
+
+![Monitor](../c64_monitor.png)
