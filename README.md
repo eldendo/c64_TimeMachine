@@ -11,6 +11,6 @@ You can NOT use any software or cartridges that you didn't made yourself. If you
 
 In this repository I will post my tools. I would be very interested to see the solutions of other c64 enthousiasts.
 
-The first tool will be a simple [MONITOR](http://github.com/eldendo/c64_TimeMachine/)
+The first tool will be a simple [MONITOR](http://github.com/eldendo/c64_TimeMachine/Monitor)
 
 ![MONITOR](./Monitor/c64_monitor.png)
